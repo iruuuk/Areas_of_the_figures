@@ -34,13 +34,13 @@ romb (d1, d2) - формула для расчёта площади ромба
 
 0 What data do you have? If you have lengths of three sides and the radius of the inscribed circle, enter 0 If you have a side length and a height drawn to it, enter 1 1 4 5 10 
 
-C:\Users\daani\source\repos\areas\x64\Debug\areas.exe (процесс 2240) завершил работу с кодом 0.
+C:\Users\Ирина\source\repos\areas\x64\Debug\areas.exe (процесс 2240) завершил работу с кодом 0.
 
 2 прогон 
 
 3 6 113.04 
 
-C:\Users\daani\source\repos\areas\x64\Debug\areas.exe (процесс 5900) завершил работу с кодом 0.
+C:\Users\Ирина\source\repos\areas\x64\Debug\areas.exe (процесс 5900) завершил работу с кодом 0.
 
 3 прогон 
 
@@ -54,4 +54,4 @@ Something went wrong, let's try to enter your data again!
 
 Are you serious?
 
-C:\Users\daani\source\repos\areas\x64\Debug\areas.exe (процесс 13500) завершил работу с кодом 0.
+C:\Users\Ирина\source\repos\areas\x64\Debug\areas.exe (процесс 13500) завершил работу с кодом 0.
